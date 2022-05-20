@@ -1,5 +1,4 @@
-const Rating = ({ count }) => {
-  console.log(count);
+const Rate = ({ count }) => {
   return (
     <ul>
       {[...Array(count)].map((x, i) => (
@@ -11,4 +10,4 @@ const Rating = ({ count }) => {
   );
 };
 
-export default Rating;
+export default Rate;
