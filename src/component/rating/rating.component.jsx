@@ -11,3 +11,5 @@ const Rate = ({ count }) => {
 };
 
 export default Rate;
+
+

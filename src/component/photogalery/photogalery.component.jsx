@@ -16,4 +16,5 @@ const PhotoGalery = () => {
   );
 };
 
+
 export default PhotoGalery;

@@ -16,4 +16,6 @@ const Card = ({ productId, name, price, description, rate, imageUrl }) => {
   );
 };
 
+
+
 export default Card;
